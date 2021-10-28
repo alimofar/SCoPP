@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from Swarm_Surveillance.SCoPP import environments as tap
+import environments as tap
 import imageio
 from math import sqrt
 
